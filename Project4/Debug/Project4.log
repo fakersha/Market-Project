@@ -1,0 +1,23 @@
+﻿  administration.cpp
+  Bronze.cpp
+  Card.cpp
+  Client.cpp
+  drink.cpp
+  Food.cpp
+  Gold.cpp
+  graphic.cpp
+  Market.cpp
+C:\Users\mr.zi\Desktop\alo\marketius\Project4\Market.cpp(21,20): warning C4018: '<': signed/unsigned mismatch
+  product.cpp
+  Silver.cpp
+  Source.cpp
+C:\Users\mr.zi\Desktop\alo\marketius\Project4\Source.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mr.zi\Desktop\alo\marketius\Project4\Source.cpp(33,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mr.zi\Desktop\alo\marketius\Project4\Source.cpp(36,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mr.zi\Desktop\alo\marketius\Project4\Source.cpp(114,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mr.zi\Desktop\alo\marketius\Project4\Source.cpp(177,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mr.zi\Desktop\alo\marketius\Project4\Source.cpp(260,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mr.zi\Desktop\alo\marketius\Project4\Source.cpp(307,2): warning C4551: function call missing argument list
+C:\Users\mr.zi\Desktop\alo\marketius\Project4\Source.cpp(233,8): warning C4101: 'symbol': unreferenced local variable
+  Generating Code...
+  Project4.vcxproj -> C:\Users\mr.zi\Desktop\alo\marketius\Debug\Project4.exe
